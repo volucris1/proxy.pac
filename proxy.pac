@@ -6,7 +6,8 @@ function FindProxyForURL(url, host) {
     "protonmail.com",
     "*.protonmail.com",
     "thenina.com",
-    "pling.com"
+    "pling.com",
+    "deezer.com"
   ];
 
   for (var i= 0; i < useSocks.length; i++) {
