@@ -8,7 +8,8 @@ function FindProxyForURL(url, host) {
     "thenina.com",
     "pling.com",
     "deezer.com",
-    "www.bbc.com"
+    "www.bbc.com",
+    "rutracker.orgv"
   ];
 
   for (var i= 0; i < useSocks.length; i++) {
