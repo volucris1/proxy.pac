@@ -9,7 +9,7 @@ function FindProxyForURL(url, host) {
     "pling.com",
     "deezer.com",
     "www.bbc.com",
-    "rutracker.orgv"
+    "rutracker.org"
   ];
 
   for (var i= 0; i < useSocks.length; i++) {
