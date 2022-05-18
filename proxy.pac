@@ -9,7 +9,8 @@ function FindProxyForURL(url, host) {
     "pling.com",
     "deezer.com",
     "www.bbc.com",
-    "rutracker.org"
+    "rutracker.org",
+    "hd.lordfilm-2022.net"
   ];
 
   for (var i= 0; i < useSocks.length; i++) {
