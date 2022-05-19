@@ -10,7 +10,8 @@ function FindProxyForURL(url, host) {
     "deezer.com",
     "www.bbc.com",
     "rutracker.org",
-    "hd.lordfilm-2022.net"
+    "hd.lordfilm-2022.net",
+    "www.hostinger.com"
   ];
 
   for (var i= 0; i < useSocks.length; i++) {
