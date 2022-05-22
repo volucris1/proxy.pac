@@ -11,7 +11,8 @@ function FindProxyForURL(url, host) {
     "www.bbc.com",
     "rutracker.org",
     "hd.lordfilm-2022.net",
-    "www.hostinger.com"
+    "www.hostinger.com",
+	"linkedin.com",
   ];
 
   for (var i= 0; i < useSocks.length; i++) {
